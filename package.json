@@ -11,7 +11,7 @@
     "git-filter-repo": "^0.0.30",
     "monaco-editor": "^0.52.2",
     "prismjs": "^1.30.0",
-    "react": "^19.1.0",
+    "react": "^18.0.0",
     "react-beautiful-dnd": "^13.1.1",
     "react-blockly": "^9.0.0",
     "react-codemirror2": "^8.0.1",
